@@ -1,0 +1,26 @@
+div{  
+    position: relative;  
+    width: 150px;  
+    height: 150px;  
+    font-size: 30px;  
+    }  
+    #len {  
+    top: -75px;  
+    border: 5px solid green;  
+    }  
+    #em {  
+    top: -2em;  
+    border: 5px solid blue;  
+    }  
+    #auto {  
+    top: auto;  
+    border: 5px solid red;  
+    }  
+      
+    #init {  
+    top: initial;  
+    border: 5px solid darkviolet;  
+    }  
+    h1{  
+    text-align: center;  
+    }  

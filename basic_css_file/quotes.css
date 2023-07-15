@@ -1,0 +1,48 @@
+body{  
+    text-align: center;  
+    }  
+    h1{  
+    color: blue;  
+    }  
+    p{  
+    font-size: 20px;  
+    }  
+    #j1 {  
+    quotes: '‹' '›';  
+    }  
+    #j2 {  
+    quotes: '‘' '’' ;  
+    }  
+    #j3 {  
+    quotes: '”' '„';  
+    }  
+    #j4 {  
+    quotes: '«' '»';  
+    }  
+    #j5 {  
+    quotes: '“' '”';  
+    }  
+    #j6 {  
+    quotes: '‹' '›' '«' '»' ;  
+    }  
+    #j7 {  
+    quotes: '\2018' '\2019';  
+    }  
+    #j8 {  
+    quotes: '\2039' '\203A';  
+    }  
+    #j9 {  
+    quotes: '\201C' '\201E';  
+    }  
+    #j10 {  
+    quotes: '\201D' '\201E';  
+    }  
+    #j11 {  
+    quotes: '\0022' '\201E';  
+    }  
+    #j12 {  
+    quotes: '\201C' '\201D';  
+    }  
+    #j13 {  
+    quotes: initial;  
+    }  

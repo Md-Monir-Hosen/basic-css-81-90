@@ -1,0 +1,19 @@
+p{  
+    border: 4px solid blue;  
+    background-color: lightblue;  
+    font-size: 20px;  
+    }  
+    #px {  
+    max-width: 120px;  
+    }  
+    #em {  
+    max-width: 10em;  
+    }  
+    #pt {  
+    max-width: 350pt;  
+      
+    }  
+    #cm {  
+    max-width: 5cm;  
+      
+    }  

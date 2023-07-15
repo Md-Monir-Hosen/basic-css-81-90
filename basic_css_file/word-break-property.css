@@ -1,0 +1,16 @@
+p{  
+    width: 350px;  
+    border: 2px solid black;  
+    text-align: left;  
+    font-size: 20px;  
+    color: blue;  
+    }  
+    .jtp{  
+    word-break: normal;  
+    }  
+    .jtp1{  
+    word-break: break-all;  
+    }  
+    .jtp2{  
+    word-break: keep-all;  
+    }  
